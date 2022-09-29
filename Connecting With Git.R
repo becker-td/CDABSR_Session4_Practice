@@ -7,7 +7,7 @@ git_sitrep()
 
 # CREATE A PERSONAL ACCESS TOKEN ------------------------------------------
 
-create_github_token()
+create_github_token() # Notice the error about "origin" below. We need a PAT!
 
 # Add token to Git credential store
 
